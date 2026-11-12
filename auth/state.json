@@ -1,0 +1,57 @@
+{
+  "cookies": [
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09AKhCRwilpHQkFR89y0oBAwDEVkl_4CqFpsG9uG_ZaGIhhOiOw2PYTFiwcwZJUZrmjd8z8m5zEJ7mb0z0mmRkj2Q",
+      "domain": "www.google.com",
+      "path": "/recaptcha",
+      "expires": 1810035702.316549,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://cpastaging.aisignpro.com",
+      "localStorage": [],
+      "indexedDB": [
+        {
+          "name": "firebase-heartbeat-database",
+          "version": 1,
+          "stores": [
+            {
+              "name": "firebase-heartbeat-store",
+              "autoIncrement": false,
+              "records": [],
+              "indexes": []
+            }
+          ]
+        },
+        {
+          "name": "firebaseLocalStorageDb",
+          "version": 1,
+          "stores": [
+            {
+              "name": "firebaseLocalStorage",
+              "autoIncrement": false,
+              "keyPath": "fbase_key",
+              "records": [],
+              "indexes": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "Z2JxdDV2YnQ3bjV3"
+        }
+      ],
+      "indexedDB": []
+    }
+  ]
+}

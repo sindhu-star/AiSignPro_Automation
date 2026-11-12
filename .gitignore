@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.idea/
+.pytest_cache/
+reports/
+allure-results/
+allure-report/
+test-results/
+playwright/.auth/
+.env
+*auth*.json
