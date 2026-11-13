@@ -50,4 +50,4 @@ pytest tests/test_login.py --headed
 - Add your own credentials/test data in the config before running.
 
 ## Author
-[Your Full Name] - [LinkedIn URL]
+[Sindhu S] 
