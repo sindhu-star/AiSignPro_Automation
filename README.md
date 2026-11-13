@@ -7,6 +7,10 @@ UI test automation for the AiSign Pro web app, built with **Python, Playwright a
 - Reach the Dashboard (Documents section)
 - Create a customer
 - Assign an agreement to the customer
+- In Assign Agreement page, from the dropdown select the first file
+- add signature by using drag and drop method
+- after sequential of step send mail(send mail> send anyway >continue to send mail> continue> success message)
+- Sign out from the Dashboard page and return to login page
 
 ## Tech stack
 - Python 3
